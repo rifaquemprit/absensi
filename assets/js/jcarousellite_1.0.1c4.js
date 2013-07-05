@@ -286,7 +286,7 @@ $.fn.jCarouselLite = function(o) {
         function startAuto() {
           stopAuto();
           autoInterval = setInterval(function() {
-                  go(curr+o.scroll);
+                  go(curr-o.scroll);
               }, o.auto+o.speed);
         };
 

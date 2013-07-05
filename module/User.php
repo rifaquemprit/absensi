@@ -60,7 +60,7 @@
 		}
 	</script>
 <div id='content' style="padding:150px;">
-	<table id="dg" title="List Menu" class="easyui-datagrid" style="width:700px;height:380px;margin:15px;"
+	<table id="dg" title="List Menu" class="easyui-datagrid" style="width: auto;height:auto;margin:15px; min-height: 200px"
 			url="get_users.php"
 			toolbar="#toolbar" pagination="true"
 			rownumbers="true" fitColumns="true" singleSelect="true">

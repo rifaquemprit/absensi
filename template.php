@@ -59,7 +59,7 @@ $user = new User();
                 hoverPause:true,
                 btnPrev: ".previous",
                 btnNext: ".next",
-                visible: 2,
+                visible: 3,
                 auto:3000,
                 speed:500
             });
@@ -180,7 +180,7 @@ $user = new User();
 
         <!-- informasi -->
         <div data-options="region:'east',iconCls:'icon-news',split:true" title="News Informations" style="width:230px;padding:5px;">
-            <center><div class="easyui-calendar" style="width:188px;height:180px;"></div></center>
+            <center><div class="easyui-calendar" style="width:188px;height:150px;"></div></center>
             <div style="margin:10px;"></div>
             <img src="assets/img/news-arrow-previous.png" class="previous" />
                  <div id="news">

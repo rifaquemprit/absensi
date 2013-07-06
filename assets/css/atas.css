@@ -1,0 +1,79 @@
+.atas {
+	font-size:14px;
+	font-weight:bold;
+	border-radius:4px 4px 0 0;
+    -moz-border-radius:4px 4px 0 0;
+    -webkit-border-radius:4px 4px 0 0;
+    padding:5px;
+    border:             #aaa solid 1px;
+    padding:            0.5em;
+    background:         #D3DCE3;
+    text-shadow:0 1px 0 #fff;
+    -moz-box-shadow: 1px 1px 2px #fff inset;
+    -webkit-box-shadow: 1px 1px 2px #fff inset;
+    box-shadow: 1px 1px 2px #fff inset;
+}
+.atas p {
+	margin:0px;
+}
+.atas #logo {
+	float:left;
+}
+.atas #judul {
+	float:left;
+	margin-left:5px;
+	margin-top:7px;
+	line-height:2px;
+}
+.atas #jam{
+	float:right;
+	margin-top:55px;
+}
+
+.bawah {
+	margin:0px;
+	border-radius:0 0 4px 4px;
+    -moz-border-radius:0 0 4px 4px;
+    -webkit-border-radius:0 0 4px 4px;
+    border:             #aaa solid 1px;
+    background:         #D3DCE3;
+    text-shadow:0 1px 0 #fff;
+    -moz-box-shadow: 1px 1px 2px #fff inset;
+    -webkit-box-shadow: 1px 1px 2px #fff inset;
+    box-shadow: 1px 1px 2px #fff inset;
+}
+.bawah p {
+	line-height:1px;
+}
+.bawah #paging {
+	margin:5px;
+}
+.bawah #tombol_input {
+	margin:5px;
+}
+h1 {
+	font-size:26px;
+}
+h2 {
+	font-size:20px;
+}
+h3 {
+	font-size:14px;
+}
+
+.news {  
+    height:  232px;  
+    width:   232px;  
+    padding: 0;  
+    margin:  0;  
+} 
+ 
+.news img {  
+    padding: 15px;  
+    border:  1px solid #ccc;  
+    background-color: #eee;  
+    width:  200px; 
+    height: 200px; 
+    top:  0; 
+    left: 0 
+} 
